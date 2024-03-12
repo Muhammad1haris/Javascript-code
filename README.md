@@ -1,2 +1,2 @@
 # Javascript-code
-Beginning of javascript 
+Beginning of javascript (to advanced javascript). 
